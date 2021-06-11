@@ -1,4 +1,6 @@
 # WhatsApp-Clone
+# Já pensou como seria o WhatsApp com outra cor, com outro nome e com tela de login?
+# Pensando nisso decidi criá-lo. ^^
 # As tecnologias utilizadas foram #React + #Firebase + #Material UI
 
 <img src="src/img/readme1.png" />
